@@ -90,6 +90,96 @@ export const resumes: Resume[] = [
       },
     },
   },
+  {
+    id: "4",
+    companyName: "Gloomburg",
+    jobTitle: "Software Engineer",
+    imagePath: "/images/resume_04.png",
+    resumePath: "/resumes/resume-3.pdf",
+    feedback: {
+      overallScore: 80,
+      ATS: {
+        score: 90,
+        tips: [],
+      },
+      toneAndStyle: {
+        score: 90,
+        tips: [],
+      },
+      content: {
+        score: 91,
+        tips: [],
+      },
+      structure: {
+        score: 92,
+        tips: [],
+      },
+      skills: {
+        score: 87,
+        tips: [],
+      },
+    },
+  },
+  {
+    id: "5",
+    companyName: "Eye-Bee-M",
+    jobTitle: "Sales Engineer",
+    imagePath: "/images/resume_05.png",
+    resumePath: "/resumes/resume-3.pdf",
+    feedback: {
+      overallScore: 78,
+      ATS: {
+        score: 90,
+        tips: [],
+      },
+      toneAndStyle: {
+        score: 90,
+        tips: [],
+      },
+      content: {
+        score: 91,
+        tips: [],
+      },
+      structure: {
+        score: 92,
+        tips: [],
+      },
+      skills: {
+        score: 87,
+        tips: [],
+      },
+    },
+  }, 
+  {
+    id: "6",
+    companyName: "Datadoge",
+    jobTitle: "Software Engineer",
+    imagePath: "/images/resume_06.png",
+    resumePath: "/resumes/resume-3.pdf",
+    feedback: {
+      overallScore: 58,
+      ATS: {
+        score: 90,
+        tips: [],
+      },
+      toneAndStyle: {
+        score: 90,
+        tips: [],
+      },
+      content: {
+        score: 91,
+        tips: [],
+      },
+      structure: {
+        score: 92,
+        tips: [],
+      },
+      skills: {
+        score: 87,
+        tips: [],
+      },
+    },
+  },  
 ];
 
 export const AIResponseFormat = `
