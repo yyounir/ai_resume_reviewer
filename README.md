@@ -13,7 +13,9 @@
 </div>
 
 ## 📖 About this Project
-Many people never consider how their resume looks like to hiring managers and often would mass-apply to jobs in which they truly don't know what the requirements are, and in other cases, it specifically because the resumes dont outshine others when scanned through the ATS (applicant tracking system). This is where Resume.GPT
+Many people never consider how their resume looks like to hiring managers and often would mass-apply to jobs in which they truly don't know what the requirements are, and in other cases, it specifically because the resumes dont outshine others when scanned through the ATS (applicant tracking system). 
+
+This is where Resume.GPT comes in, it scans the user's resume and it analyzes the user's experience and gives a score based on the how much their resume fits with the job! Just enter the company, job title, and paste the job description and let AI do the analyzing for you!
 
 ## 🌐 Try it Out!
 https://ai-resume-reviewer-beta.vercel.app/
