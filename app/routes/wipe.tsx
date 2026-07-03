@@ -2,6 +2,12 @@ import { useEffect, useState } from "react";
 import { useNavigate } from "react-router";
 import { usePuterStore } from "~/lib/puter";
 
+export const meta = () => ([
+    {title: 'Resume.gpt | Delete Data'},
+    {name: 'description', content: 'Deletion of resumes'},
+    
+])
+
 const WipeApp = () => {
     const { auth, isLoading, error, clearError, fs, ai, kv } = usePuterStore();
     const navigate = useNavigate();
