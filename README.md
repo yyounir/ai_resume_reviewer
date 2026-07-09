@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/favicon.ico" alt="PokeSearch Logo" width="50"/>
+  <img src="public/favicon.ico" alt="Resume.GPT Logo" width="50"/>
   
   # Resume.GPT
 
